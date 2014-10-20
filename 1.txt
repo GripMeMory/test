@@ -6,4 +6,6 @@ This is the second line
 This is combine the tow branhes
 This is the new branch test line
 
+This is the new branch test
+
 使用可视化工具进行提交
