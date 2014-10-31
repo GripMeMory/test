@@ -1,5 +1,5 @@
 <?php
-    $string1 = "佳哥";
+    $string1 = "原密码";
     echo $string1."\n";
     $string = encrypt($string1);
     var_dump($string);
